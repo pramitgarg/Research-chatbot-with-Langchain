@@ -1,0 +1,11 @@
+langchain 
+langchain_community
+fastapi
+uvicorn
+langserve
+pydantic
+streamlit 
+requests
+pypdf
+python-docs
+langchain_core
